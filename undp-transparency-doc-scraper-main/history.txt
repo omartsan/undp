@@ -1,0 +1,96 @@
+  866  flask setup
+  867  flask import_data
+  868  flask import_data
+  869  flask test_data
+  870  flask aggregate_results
+  871  flask run
+  872  flask setup
+  873  flask download_data
+  874  flask import_data
+  875  flask test_data
+  876  flask aggregate_results
+  877  flask run
+  878  flask run
+  879  flask run
+  880  flask test_data
+  881  flask aggregate_results
+  882  flask run
+  883  flask test_data
+  884  flask test_data
+  885  flask test_data
+  886  flask test_data
+  887  flask test_data
+  888  flask aggregate_results
+  889  flask aggregate_results
+  890  flask run
+  891  flask aggregate_results
+  892  black conftest.py config_test.py unittests/test_web.py integration_tests/\nisort conftest.py config_test.py unittests/test_web.py integration_tests/
+  893  black conftest.py config_test.py unittests/test_web.py integration_tests/
+  894  isort conftest.py config_test.py unittests/test_web.py integration_tests/
+  895  brew install isort
+  896  isort conftest.py config_test.py unittests/test_web.py integration_tests/
+  897  flask aggregate_results
+  898  flask test_data
+  899  flask test_data
+  900  flask run
+  901  flask aggregate_results
+  902  flask run
+  903  cd ..
+  904  ls
+  905  pip install jupyterlab
+  906  ls
+  907  cd undp-transparency-doc-scraper-main
+  908  jupyter lab
+  909  sudo apt-get install tesseract-ocr
+  910  jupyter lab
+  911  pip install image
+  912  jupyter lab
+  913  brew install poppler
+  914  jupyter lab
+  915  pip install pdf2image
+  916  jupyter lab
+  917  brew install tesseract
+  918  jupyter lab
+  919  pip install pandas
+  920  jupyter lab
+  921  pip install textract
+  922  jupyter lab
+  923  pip install scrapy
+  924  jupyter lab
+  925  pip install PyPDF2
+  926  jupyter lab
+  927  pip install pdfpages
+  928  jupyter lab
+  929  pip install pikepdf
+  930  jupyter lab
+  931  pip install pdfplumber
+  932  jupyter lab
+  933  jupyter lab
+  934  jupyter lab
+  935  part1_item_scraper.py
+  936  python part1_item_scraper.py
+  937  python part2_document_scraper.py
+  938  python part1_item_scraper.py
+  939  jupyter lab
+  940  python part2_document_scraper.py
+  941  jupyter lab
+  942  python part2_document_scraper.py
+  943  python part1_item_scraper.py
+  944  python part2_document_scraper.py
+  945  jupyter lab
+  946  python part1_item_scraper.py
+  947  python part2_document_scraper.py
+  948  source .ve/bin/activate
+  949  python3 -m venv .ve
+  950  source .ve/bin/activate
+  951  ls
+  952  cd undp-transparency-doc-scraper-main
+  953  ls
+  954  python part1_item_scraper.py
+  955  pip install Pillow
+  956  pip install jupyterlab
+  957  python part1_item_scraper.py
+  958  pip install pdf2image
+  959  pip install pandas
+  960  history > history.txt
+  961  ls
