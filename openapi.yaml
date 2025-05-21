@@ -1,0 +1,43 @@
+openapi: 3.0.0
+info:
+  title: UNDP Project CRM API
+  version: 1.0.0
+servers:
+  - url: https://a2fc-192-124-42-11.ngrok-free.app
+
+paths:
+  /project:
+    get:
+      summary: Get project details by project ID
+      parameters:
+        - in: query
+          name: project_id
+          required: true
+          schema:
+            type: string
+          description: The ID of the project to retrieve
+      responses:
+        '200':
+          description: Project information successfully retrieved
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  project_id:
+                    type: string
+                  project_number:
+                    type: string
+                  hq_co:
+                    type: string
+                  project_name:
+                    type: string
+        '404':
+          description: Project not found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error:
+                    type: string
