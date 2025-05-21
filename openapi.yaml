@@ -3,7 +3,7 @@ info:
   title: UNDP Project CRM API
   version: 1.0.0
 servers:
-  - url: https://a2fc-192-124-42-11.ngrok-free.app
+  - url: https://a2fc-192-124-42-11.ngrok-free.app/project
 
 paths:
   /project:
